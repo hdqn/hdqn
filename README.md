@@ -19,3 +19,10 @@ height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdqn&show_icons=true&locale=en&layout=compact" alt="hdqn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdqn&" alt="hdqn" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
+</picture>
