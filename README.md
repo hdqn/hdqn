@@ -26,9 +26,5 @@ height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
 </picture>
-### 🐍 Snake Animation
-![snake gif](https://github.com/hdqn/hdqn/blob/output/github-contribution-grid-snake.gif)
 
-### 🧊 3D Contribution Graph
-![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
