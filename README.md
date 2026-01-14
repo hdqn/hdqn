@@ -1,59 +1,55 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQEnNKiiNUKz9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693476739453?e=2147483647&v=beta&t=GJFkWsA-sWUOFI02Aied_XdQ1bALhfLS8j_rzNl-ZMQ)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEnNKiiNUKz9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693476739453?e=2147483647&v=beta&t=GJFkWsA-sWUOFI02Aied_XdQ1bALhfLS8j_rzNl-ZMQ" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A software engineering student trying to make full stack software</h3>
+<h3 align="center">Junior Backend Developer | .NET Core & OOP Enthusiast</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hdqn&theme=github_dark&no-bg=true" alt="hdqn trophies" />
-  </a> 
+<p align="center">
+  <a href="https://linkedin.com/in/hasan-doğan-68504029b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/hasandogan106"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hasan-doğan-68504029b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-doğan" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/hasandogan106" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasandogan106" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdqn&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="hdqn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdqn&theme=github-dark" alt="hdqn" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
-## 📊 GitHub Stats Cards
+### 🚀 About Me
+- 🎓 **Software Engineering** öğrencisiyim.
+- 🎯 Ana odak noktam **.NET Core** ile ölçeklenebilir Backend sistemler geliştirmek.
+- 🏗️ **Nesne Tabanlı Programlama (OOP)** prensiplerini ve temiz kod (Clean Code) mimarilerini derinlemesine öğreniyorum.
+- 🛡️ Veritabanı yönetimi ve API tasarımı üzerine projeler geliştiriyorum.
 
-![hdqn's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hdqn&theme=github_dark)
+---
 
-![hdqn's Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hdqn&theme=github_dark&utcOffset=3)
+### 🛠 Tech Stack
 
-![hdqn's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hdqn&theme=github_dark)
+**Backend & Core**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![hdqn's Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hdqn&theme=github_dark)
+**Tools & Others**
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-Focus-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![hdqn's General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hdqn&theme=github_dark)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdqn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Hasan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hdqn&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=html,css,javascript,arduino,php" alt="Hasan's Top Langs" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdqn&theme=github-dark" alt="hdqn streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hdqn/hdqn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
